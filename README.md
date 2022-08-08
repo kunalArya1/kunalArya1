@@ -1,6 +1,3 @@
-# Hi there 👋, I'm Kunal Kumar Arya
-
-
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
 
 <img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  
