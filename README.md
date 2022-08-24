@@ -63,7 +63,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalArya1&show_icons=true&locale=en" alt="kunalArya1" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kunalArya1&theme=github&count_private=true)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
