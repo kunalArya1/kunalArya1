@@ -63,7 +63,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalArya1&show_icons=true&locale=en" alt="kunalArya1" /></p>
 
-[![Kunal github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kunalArya1&theme=dracula)](https://github.com/kunalArya1/github-readme-activity-graph)
+[![Kunal github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kunalArya1&theme=github-compact)](https://github.com/kunalArya1/github-readme-activity-graph)
 
 
 <h3 align="left">Connect with me:</h3>
