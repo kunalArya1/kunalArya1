@@ -95,7 +95,7 @@
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalArya1&show_icons=true&locale=en&layout=compact" height="200px" alt="kunalArya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalArya1&show_icons=true&locale=en" height="200px"  alt="kunalArya1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalArya1&show_icons=true&locale=en"   alt="kunalArya1" /></p>
 
 ---
 
