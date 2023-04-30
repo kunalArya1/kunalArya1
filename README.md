@@ -13,7 +13,8 @@
 
 ## Hello, I'm Kunal Kumar Arya, a self-taught full stack web developer . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
----
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kunalArya1
 )](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -52,23 +53,55 @@
 ---
 
 **My Tools** 🛠 <br/>
-
 --
 
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)    ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+---
+## My Web Development Skill Set  
+<table><tr><td valign="top" width="50%">
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+</div ></td><td valign="top" width="45%" >
+
+### Backend  
+<div align="center" style="margin: 50px">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />   -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="60" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />   -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="60" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />   -->
+</div></td></tr></table>  
+<br/> 
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalArya1&show_icons=true&locale=en&layout=compact" alt="kunalArya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalArya1&show_icons=true&locale=en&layout=compact" height="200px" width="370px" alt="kunalArya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalArya1&show_icons=true&locale=en" alt="kunalArya1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalArya1&show_icons=true&locale=en" height="200px" width="600px" alt="kunalArya1" /></p>
 
-
-
-
+---
 
 ### Streak Stats Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunalArya1&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+--
 
 [![Kunal github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kunalArya1&theme=github-compact)](https://github.com/kunalArya1/github-readme-activity-graph)
 
@@ -90,8 +123,7 @@
 ---
 
 Thanks for checking it out. Have a good day. ✨
-
----
+--
 
 
 [1]: https://www.linkedin.com/in/kunal-kumar-arya/
