@@ -103,8 +103,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunalArya1&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 --
 
-[![Kunal github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kunalArya1&theme=github-compact)](https://github.com/kunalArya1/github-readme-activity-graph)
-
+[![Kunal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalArya1&theme=gotham)](https://github.com/kunalArya1/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
